@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Mod_The_Cube",
+"productVersion": "0.1",
+"dataUrl": "Final_mod_the_cube.data.unityweb",
+"wasmCodeUrl": "Final_mod_the_cube.wasm.code.unityweb",
+"wasmFrameworkUrl": "Final_mod_the_cube.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.17f1"
+}
